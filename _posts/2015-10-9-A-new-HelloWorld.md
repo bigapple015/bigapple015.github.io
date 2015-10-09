@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 一个正式意义上的 Hello world？
+category: 一堆屁
+tags: Jekyll
 ---
 
 好吧终于把 gekyll 折腾在Github 上了，虽然严格意义上我所做的一切都只是 fork 了人家一个 repo 然后改了不到10行的配置文件。
