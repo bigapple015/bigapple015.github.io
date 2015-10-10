@@ -8,8 +8,8 @@ permalink: /about/
 
 ### 更多
 
-I am actually an ALIEN    
-Thanks to @Austin_pb for doing nothing.
+
+Thanks to @Austin_pb for doing nothing.  
 感谢 @--C 提供了域名的建议lol
 
 ### 不要联系我
