@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 所谓的周一只不过是周末的开始罢了
+title: 所谓的周末只不过是周一的开始罢了
 category: 一堆屁
 tags: Jekyll
 ---
