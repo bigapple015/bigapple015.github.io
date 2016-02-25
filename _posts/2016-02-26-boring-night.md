@@ -1,6 +1,6 @@
 ---
 layout: post
-title: -.-咦？
+title: 咦？
 category: 一堆屁
 tags: Jekyll
 ---
