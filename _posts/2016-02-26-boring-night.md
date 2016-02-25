@@ -1,15 +1,8 @@
 ---
-sha: 99d68f2fc19f394ed534876d2d89082f1b0ddd67
-title: 'Post by Jekyller from chrome'
-date: '2016-02-26'
-info: 
-comment: 
-tags: []
-categories:
-  - 一堆屁
-published: true
-slug: slug是啥子
-
+layout: post
+title: null
+category: 一堆屁
+tags: Jekyll
 ---
 #最近的生活很无聊嘛
 好吧我表示在国内的生活是这样的  
