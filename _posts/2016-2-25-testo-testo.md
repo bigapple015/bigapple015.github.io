@@ -34,4 +34,4 @@ tags: Jekyll
 嗯最后总结出...不是github抽风就是我电脑抽风
 
 晚上虽然很迟钝...但其实由于单线程工作其实效率还是蛮高的
-![screenshot160226](/images/screenshot160226.)
+![screenshot160226](/images/screenshot160226.png)
