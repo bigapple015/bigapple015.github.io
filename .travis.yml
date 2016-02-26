@@ -1,2 +1,3 @@
 language: ruby
+script: "cd [redmine-directory]"
 script: "bundle exec jekyll build"
