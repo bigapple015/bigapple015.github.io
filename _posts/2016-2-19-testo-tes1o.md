@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 好一顿香锅（并没有吃很多
+title: 好一顿香锅
 category: 一堆屁
 tags: Jekyll
 ---
