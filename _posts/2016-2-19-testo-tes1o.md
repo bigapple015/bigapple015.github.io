@@ -1,6 +1,8 @@
 ---
-title: testotesto
-date: 2016-02-06 19:32:10 -0800
+layout: post
+title: 好一顿香锅（并没有吃很多
+category: 一堆屁
+tags: Jekyll
 ---
 最近的生活很无聊嘛
 好吧我表示在国内的生活是这样的  
