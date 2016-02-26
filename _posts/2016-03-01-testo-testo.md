@@ -1,8 +1,5 @@
 ---
-layout: post
 title: testotesto
-category: 一堆屁
-tags: Jekyll
 ---
 最近的生活很无聊嘛
 好吧我表示在国内的生活是这样的  
